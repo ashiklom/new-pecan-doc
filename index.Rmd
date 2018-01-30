@@ -8,3 +8,7 @@ link-citations: yesmake
 output: 
   split_by: section
 ---
+```{r}
+library(knitr)
+opts_chunk$set(eval = FALSE)
+```
