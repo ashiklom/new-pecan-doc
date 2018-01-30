@@ -1,0 +1,21 @@
+# Intermediate user guide
+
+- A tour of PEcAn XML
+    - The edit XML button
+    - (Already written?)
+    - (Link to other stuff)
+- Additional run config
+    - BrownDog
+    - Edit model config files directly
+        - job.sh
+        - model.config
+        - (Link to models)
+    - Advanced setup
+        - Ensemble runs
+        - Uncertainty analysis
+        - Sensitivity analysis
+- "Hidden" settings (XML only)
+    - PDA
+    - SDA
+    - MultiSettings
+    - Benchmarking

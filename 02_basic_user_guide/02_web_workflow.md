@@ -1,0 +1,31 @@
+## Web workflow
+
+- Model selection
+    - Host
+        - A note on remote
+    - Model
+    - Conversion
+    - Site and site group
+        - Mention add a site
+- Configure run
+    - PFTs
+    - Start and end date
+    - Inputs
+        - Meteorology
+        - Initial conditions
+    - Email and notes
+    - Advanced options (in brief)
+        - Brown Dog
+        - Edit XML
+        - Edit model config
+        - Advanced setup
+    - Data policies, other screens
+- Run exec page (very brief)
+- Results page
+    - Graphs
+    - Inputs
+    - Outputs
+    - PFTs
+    - PEcAn files
+- Shiny
+- FAQ

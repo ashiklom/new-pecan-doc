@@ -1,0 +1,32 @@
+# Developer guide
+
+- Setup PEcAn and BETY
+    - (For every OS...)
+    - Update
+        - PEcAn
+        - Bety
+- Git
+    - Intro (local)
+    - Collaborative workflow
+- Coding practices
+    - Package structure
+        - Data
+        - Keep it brief -- link to Hadley where appropriate
+    - Roxygen
+    - Coding style
+    - Testing
+    - Building documentation (how to bookdown)
+- Overview of folder structure
+    - (For each package, link to Roxygen HTML docs)
+    - Base
+        - utils
+        - db
+        - settings
+    - Modules
+        - Met products (how to add)
+    - Models
+        - ...each model
+- Overview of BETY
+    - Bety web interface
+    - Bety CLI (PostgreSQL)
+        - Link to `PEcAn.DB`

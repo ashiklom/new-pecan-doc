@@ -1,0 +1,4 @@
+## PEcAn standards
+
+- Inputs
+- Outputs
